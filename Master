@@ -1,0 +1,1 @@
+local InfiniteJumpEnable = true game:GetService("UserInputService").Jumprequired (if InfiniteJumpEnable then game:GetService"Players".Local end end)
